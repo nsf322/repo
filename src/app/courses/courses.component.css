@@ -1,0 +1,29 @@
+.header{
+    margin-bottom: 100px;
+}
+
+.form-control{
+    width: 50%;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.search{
+    margin-bottom: 80px;
+}
+.course{
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
+.courses p{
+    font-size: 16px;
+    padding: 10px;
+    margin: 0;
+}
+
+.courses li {
+    margin-bottom: 20px;
+}
